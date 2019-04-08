@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1554130827 source:c:\users\alumno\desktop\clase 6 vectores\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1554131316 source:c:\users\alumno\desktop\clase 6 vectores\vectores\vectores.c
+	"vectores.h"
+	<stdio.h>
+
+1554131488 c:\users\alumno\desktop\clase 6 vectores\vectores\vectores.h
+
+1554245710 source:c:\users\cristiandmk\downloads\clase-6-vectores-master\clase-6-vectores-master\clase 6  vectores\vectores.c
+	"vectores.h"
+	<stdio.h>
+
+1554174879 c:\users\cristiandmk\downloads\clase-6-vectores-master\clase-6-vectores-master\clase 6  vectores\vectores.h
+
+1554245667 source:c:\users\cristiandmk\downloads\clase-6-vectores-master\clase-6-vectores-master\clase 6  vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1554725332 source:c:\users\alumno\desktop\nueva carpeta\clase-7\ejercicio-vectores-1c\vectores\vectores.c
+	"vectores.h"
+	<stdio.h>
+
+1554725332 c:\users\alumno\desktop\nueva carpeta\clase-7\ejercicio-vectores-1c\vectores\vectores.h
+
